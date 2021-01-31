@@ -11,6 +11,8 @@ El curso de Git  y Github es lo que me hacía falta para triplicar mi salario y 
 * Trucos muy locos **del** profesor.
 * Las personalidades múltiples de Freddy
 * Creado por el increible platzi team
+* Incluye ejemplos en Windows, linux y Mac
+
 
 Y como amable recordatorio, **este readme es un chiste**. Diseñado para el ejemplo. Sillegas acá no te lo tomes en serio.:joy:
 

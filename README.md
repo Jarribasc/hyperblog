@@ -10,6 +10,7 @@ El curso de Git  y Github es lo que me hacía falta para triplicar mi salario y 
 * El verdadero amor por las buenas prácticas.
 * Trucos muy locos **del** profesor.
 * Las personalidades múltiples de Freddy
+* Creado por el increible platzi team
 
 Y como amable recordatorio, **este readme es un chiste**. Diseñado para el ejemplo. Sillegas acá no te lo tomes en serio.:joy:
 
